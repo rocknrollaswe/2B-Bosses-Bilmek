@@ -1,0 +1,384 @@
+﻿<Page x:Class="GUI.Pages.Profile"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GUI.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Profile">
+
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <GroupBox  Grid.Column="1" Header=" Användare information " BorderThickness="2,2,2,2" Foreground="White" BorderBrush="Black" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Agency FB" FontSize="20" Width="400">
+                            <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <StackPanel Grid.Row="0">
+                                    <Grid Height="132" Width="380">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition/>
+                                            <ColumnDefinition/>
+                                            <!-- Här delat vänstersida -->
+                                        </Grid.ColumnDefinitions>
+                                        <Grid Grid.Row="0" Grid.Column="0">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="113*"/>
+                                                <ColumnDefinition Width="37*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Label Content="Användares namn :" Foreground="White" FontSize="16" Grid.ColumnSpan="2"/>
+                                        </Grid>
+                                        <Grid Grid.Row="0" Grid.Column="1">
+                                            <Label x:Name="tb_username" Content="Hittarde inge info" Foreground="White" FontSize="16" HorizontalAlignment="Right" Margin="0,0,10,0"/>
+                                        </Grid>
+
+
+                                        <Grid Grid.Row="1" Grid.Column="0">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="113*"/>
+                                                <ColumnDefinition Width="37*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Label Content="Användares E-mail :" Foreground="White" FontSize="16" Grid.ColumnSpan="2"/>
+                                        </Grid>
+                                        <Grid Grid.Row="1" Grid.Column="1">
+                                            <Label x:Name="tb_useremail" Content="Hittarde inge info" Foreground="White" FontSize="16" HorizontalAlignment="Right" Margin="0,0,10,0"/>
+                                        </Grid>
+
+
+
+
+
+                                        <Grid Grid.Row="2" Grid.Column="0">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="113*"/>
+                                                <ColumnDefinition Width="37*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Label Content="Användares födelsedatum :" Foreground="White" FontSize="16" Grid.ColumnSpan="2"/>
+                                        </Grid>
+                                        <Grid Grid.Row="2" Grid.Column="1">
+                                            <Label x:Name="tb_userbirth" Content="Hittarde inge info" Foreground="White" FontSize="16" HorizontalAlignment="Right" Margin="0,0,10,0"/>
+                                        </Grid>
+
+
+
+
+                                        <Grid Grid.Row="3" Grid.Column="0">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="113*"/>
+                                                <ColumnDefinition Width="37*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Label Content="Slutdatum för anställning : " Foreground="White" FontSize="16" Grid.ColumnSpan="2"/>
+                                        </Grid>
+                                        <Grid Grid.Row="3" Grid.Column="1">
+                                            <Label x:Name="tb_resignmentdate" Content="Hittarde inge info" Foreground="White" FontSize="16" HorizontalAlignment="Right" Margin="0,0,10,0"/>
+                                        </Grid>
+
+
+
+
+                                    </Grid>
+                                </StackPanel>
+
+                            </Grid>
+                        </GroupBox>
+                    </StackPanel>
+
+
+                    <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <GroupBox Header="Lägg till/ta bort kompetens" Grid.Column="1" BorderThickness="2,2,2,2" Foreground="White" BorderBrush="Black" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Agency FB" FontSize="20" Width="400">
+                            <Grid Margin="29,20,0,20" Width="359" HorizontalAlignment="Left" VerticalAlignment="Center">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1.3*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <StackPanel Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left">
+                                    <CheckBox x:Name="Cb_Bromsar" Content="Bromsar" Foreground="White" BorderBrush="White" FontWeight="Bold" HorizontalContentAlignment="Left" HorizontalAlignment="Center" FontSize="16">
+                                        <CheckBox.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF072E14"/>
+                                                <GradientStop Color="#FF1B9F47" Offset="1"/>
+                                            </LinearGradientBrush>
+                                        </CheckBox.Background>
+                                    </CheckBox>
+
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left">
+                                    <CheckBox x:Name="Cb_Motor" Content="Motor" Foreground="White" BorderBrush="White" FontWeight="Bold" HorizontalContentAlignment="Left" HorizontalAlignment="Center" FontSize="16">
+                                        <CheckBox.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF072E14"/>
+                                                <GradientStop Color="#FF1B9F47" Offset="1"/>
+                                            </LinearGradientBrush>
+                                        </CheckBox.Background>
+                                    </CheckBox>
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="0" Grid.Column="2" HorizontalAlignment="Left">
+
+                                    <CheckBox x:Name="Cb_Kaross" Content="Kaross" Foreground="White" BorderBrush="White" FontWeight="Bold" HorizontalContentAlignment="Left" HorizontalAlignment="Center" FontSize="16">
+                                        <CheckBox.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF072E14"/>
+                                                <GradientStop Color="#FF1B9F47" Offset="1"/>
+                                            </LinearGradientBrush>
+                                        </CheckBox.Background>
+                                    </CheckBox>
+                                </StackPanel>
+
+
+
+
+
+                                <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,10,0,0" HorizontalAlignment="Left">
+
+                                    <CheckBox x:Name="Cb_Vindruta" Content="Vindruta" Foreground="White" BorderBrush="White" FontWeight="Bold" HorizontalContentAlignment="Left" HorizontalAlignment="Center" FontSize="16">
+                                        <CheckBox.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF072E14"/>
+                                                <GradientStop Color="#FF1B9F47" Offset="1"/>
+                                            </LinearGradientBrush>
+                                        </CheckBox.Background>
+                                    </CheckBox>
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="1" Grid.Column="1" Margin="0,10,0,0" HorizontalAlignment="Left">
+                                    <CheckBox x:Name="Cb_wheel" Content="Däck" Foreground="White" BorderBrush="White"  FontWeight="Bold" HorizontalContentAlignment="Left" FontSize="16">
+                                        <CheckBox.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="#FF072E14"/>
+                                                <GradientStop Color="#FF1B9F47" Offset="1"/>
+                                            </LinearGradientBrush>
+                                        </CheckBox.Background>
+                                    </CheckBox>
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="1" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Bottom">
+                                    <Button x:Name="BT_chnageSkills" Content="Ändra" Width="60" HorizontalAlignment="Center" Height="22" Foreground="White" FontSize="14" FontWeight="Bold" Click="BT_chnageSkills_Click">
+                                        <Button.Background>
+                                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                                <GradientStop Color="Black"/>
+                                                <GradientStop Color="#FF434343" Offset="1"/>
+                                            </LinearGradientBrush>
+                                        </Button.Background>
+                                    </Button>
+
+
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="1" Grid.Column="2" HorizontalAlignment="Left">
+
+                                </StackPanel>
+                            </Grid>
+                        </GroupBox>
+                    </StackPanel>
+
+
+
+                    <StackPanel Grid.Row="2">
+                        <GroupBox Header=" Pågående ärenden " Grid.Column="1" BorderThickness="2,2,2,2" Foreground="White" BorderBrush="Black" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Agency FB" FontSize="20" Width="400">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <StackPanel Grid.Row="0">
+                                    <Label Content="Första Ärendet :" Foreground="White" FontSize="16" HorizontalAlignment="Left" Margin="0,0,10,0" FontStyle="Normal"/>
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="1">
+                                    <Label x:Name="tb_case1_Info" Content="Inga ärende tilldelat ännu" Foreground="White" FontSize="16" HorizontalAlignment="Center" Margin="0,0,10,0"/>
+                                </StackPanel>
+
+
+                                <StackPanel Grid.Row="2">
+                                    <Label Content="Andra Ärendet :" Foreground="White" FontSize="16" HorizontalAlignment="Left" Margin="0,0,10,0" FontStyle="Normal"/>
+                                </StackPanel>
+
+                                <StackPanel Grid.Row="3">
+                                    <Label x:Name="tb_case2_Info" Content="Inga ärende tilldelat ännu" Foreground="White" FontSize="16" HorizontalAlignment="Center" Margin="0,0,10,0"/>
+                                </StackPanel>
+
+                            </Grid>
+                        </GroupBox>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+
+            <StackPanel Grid.Column="1">
+
+                <Grid Width="330" Margin="0,0,0,20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="6*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Content="Totalt antal ärenden : " Foreground="White" FontFamily="Blackadder ITC" FontSize="30" HorizontalAlignment="Center" FontWeight="Bold" VerticalAlignment="Center" Width="220"></Label>
+                    <Label x:Name="tb_usertotal_case" Grid.Column="1" Content="0" Foreground="White" FontSize="20" HorizontalAlignment="Center" Margin="0,0,10,0" FontWeight="Bold" FontFamily="Agency FB" VerticalAlignment="Center"/>
+
+                </Grid>
+
+
+                <GroupBox Header="Avslutat ärende" Grid.Column="0" BorderThickness="2,2,2,2" Foreground="White" BorderBrush="Black" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Agency FB" FontSize="20">
+
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="1*"/>
+
+                        </Grid.RowDefinitions>
+
+                        <StackPanel Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5,5,5,5">
+                            <ComboBox x:Name="cb_finshed_case" IsEnabled="False" Text="-- Välj avslutat ärende --" Width="350" Height="35" IsEditable="True" IsReadOnly="True" FontFamily="Agency FB" FontSize="14" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" SelectionChanged="cb_finshed_case_SelectionChanged" >
+                            </ComboBox>
+                        </StackPanel>
+
+
+
+
+                        <!-- Fordonreg ärande 1-->
+                        <StackPanel Grid.Row="1" Margin="5,5,5,5">
+                            <TextBox x:Name="tb_fordon_reg" Text="-- Ärende Regnummer --" TextWrapping="Wrap" Width="350" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White" IsReadOnly="True" FontSize="16" >
+                                <TextBox.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FFB13030" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </TextBox.Background>
+                            </TextBox>
+                        </StackPanel>
+
+
+
+                        <!-- fordontyp ärande 1-->
+                        <StackPanel Grid.Row="2" Margin="5,5,5,5">
+                            <TextBox x:Name="tb_fordontyp" Text="-- Fordonets typ --" TextWrapping="Wrap" Width="350" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White" IsReadOnly="True" FontSize="16" >
+                                <TextBox.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FF434343" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </TextBox.Background>
+                            </TextBox>
+                        </StackPanel>
+
+                        <!-- fordonmärke ärande 1-->
+                        <StackPanel Grid.Row="3" Margin="5,5,5,5">
+                            <TextBox x:Name="tb_fordonbrand" Text="-- Fordonets märke --" TextWrapping="Wrap" Width="350" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White" IsReadOnly="True" FontSize="16" >
+                                <TextBox.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FF434343" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </TextBox.Background>
+                            </TextBox>
+                        </StackPanel>
+
+
+                        <!-- fordonmodel ärande 1-->
+                        <StackPanel Grid.Row="4" Margin="5,5,5,5">
+                            <TextBox x:Name="tb_fordonmodel" Text="-- Fordonets Modell --" TextWrapping="Wrap" Width="350" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White" IsReadOnly="True" FontSize="16" >
+                                <TextBox.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FF434343" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </TextBox.Background>
+                            </TextBox>
+                        </StackPanel>
+
+
+
+
+                        <!-- fordonärandenummer ärande 1-->
+                        <StackPanel Grid.Row="5" Margin="5,5,5,5">
+                            <TextBox x:Name="tb_caseid" Text="-- Ärendenummer --" TextWrapping="Wrap" Width="350" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White" IsReadOnly="True" FontSize="16" >
+                                <TextBox.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FF434343" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </TextBox.Background>
+                            </TextBox>
+                        </StackPanel>
+
+
+                        <!-- Fordon issu-->
+                        <StackPanel Grid.Row="6" Margin="5,5,5,5">
+                            <TextBox x:Name="tb_issue" Text="-- Ärendeproblem--" TextWrapping="Wrap" Width="350" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White" IsReadOnly="True" FontSize="16" >
+                                <TextBox.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FF434343" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </TextBox.Background>
+                            </TextBox>
+                        </StackPanel>
+
+                        <!-- work status-->
+                        <StackPanel Grid.Row="7" Margin="5,5,5,5">
+                            <TextBox x:Name="tb_comments" Text="--- Kommentarer ---" TextWrapping="Wrap" Width="350" Height="35" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="White" IsReadOnly="True" FontSize="16" >
+                                <TextBox.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FF434343" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </TextBox.Background>
+                            </TextBox>
+                        </StackPanel>
+
+                        <!-- change work status-->
+
+
+
+
+
+
+
+
+                        <!-- här slut delat row ärande 1-->
+                    </Grid>
+                </GroupBox>
+
+
+
+
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Page>

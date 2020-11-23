@@ -1,0 +1,55 @@
+﻿<Window x:Class="GUI.SearchWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+             Title="Bosses bilverkstad" Height="230" Width="450" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Foreground="White">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black" Offset="1"/>
+            <GradientStop Color="#FF434343" Offset="0"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <GroupBox Header="Sök" Grid.Column="0" BorderThickness="2,2,2,2" Foreground="White" BorderBrush="Black" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Agency FB" FontSize="20" Width="450" Height="230">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="8*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Label x:Name="TB_1" Visibility="Visible" Foreground="White" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label x:Name="TB_2" Visibility="Visible" Foreground="White" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label x:Name="TB_3" Visibility="Visible" Foreground="White" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label x:Name="TB_4" Visibility="Visible" Foreground="White" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Label x:Name="TB_5" Visibility="Visible" Foreground="White" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                <Label x:Name="TB_Defaultmsg" Visibility="Visible" Content="Tyvärr hittade inge info." Foreground="White" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel x:Name="BT_close" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Button x:Name="BT_Go_back" Content="Gå tillbaka" Width="100" Click="BT_goBack_Click" Foreground="White">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Black"/>
+                            <GradientStop Color="#FF1B9F47" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+
+            </StackPanel>
+            
+            
+            
+            
+            
+        </Grid>
+       
+        
+        
+    </GroupBox>
+
+
+
+</Window>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Admin\Add_Mechanic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminProfile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admin\Alla_vehicle.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admin\AllMechanic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="User\Assignment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admin\Case.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="User\Profile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admin\Add_Vehicle.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SearchWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Admin\Add_Mechanic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin\AdminProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin\Alla_vehicle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin\AllMechanic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="User\Assignment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin\Case.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="User\Profile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin\Add_Vehicle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SearchWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

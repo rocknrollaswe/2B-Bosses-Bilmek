@@ -1,0 +1,579 @@
+C:\Users\younu\Desktop\Clean Projekt\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Clean Projekt\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Clean Projekt\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Clean Projekt\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Clean Projekt\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Clean Projekt\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Clean Projekt\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Search_page.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.baml
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Search_page.baml
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Case.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Case.baml
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.baml
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Case.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Search_page.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Case.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\Pages\Search_page.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Projekt arbete V2\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\Projekt V3\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Projekt V3\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Projekt V3\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Projekt V3\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Projekt V3\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Projekt V3\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Projekt V3\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Projekt V3\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Projekt V3\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Case.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Search_page.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Case.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Search_page.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Assignment.g.cs
+C:\Users\younu\Desktop\Projekt V3\GUI\obj\Debug\netcoreapp3.1\Pages\Assignment.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Assignment.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Case.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Assignment.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Case.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AdminProfile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AdminProfile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AdminProfile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Assignment.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Case.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AdminProfile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Assignment.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Case.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\V4\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AdminProfile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Assignment.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Case.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Mechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Add_Vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AdminProfile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Alla_vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\AllMechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Assignment.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Case.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\Pages\Profile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\fixa add mechanic V5\Regnummer check\V4\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\Case.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\User\Assignment.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\User\Profile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\Admin\Case.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\User\Assignment.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Continue V5.6\GUI\obj\Debug\netcoreapp3.1\User\Profile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\Case.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\User\Assignment.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\User\Profile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Admin\Case.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\User\Assignment.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\User\Profile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\Clean New\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\Case.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\User\Assignment.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\User\Profile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Admin\Case.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\User\Assignment.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\User\Profile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\testa tabpanel\test\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\Case.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\User\Assignment.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\User\Profile.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Admin\Case.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\User\Assignment.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\User\Profile.baml
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\Clean Projekt arbete\V7.1\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\New Projek\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\New Projek\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\New Projek\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\New Projek\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\New Projek\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\New Projek\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\New Projek\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\New Projek\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\New Projek\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\Case.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\User\Assignment.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\User\Profile.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Admin\Case.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\User\Assignment.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\User\Profile.baml
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\New Projek\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\Case.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\User\Assignment.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\User\Profile.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\New folder\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\younu\Desktop\New folder\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\younu\Desktop\New folder\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\younu\Desktop\New folder\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\younu\Desktop\New folder\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\younu\Desktop\New folder\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\younu\Desktop\New folder\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\younu\Desktop\New folder\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\younu\Desktop\New folder\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Admin\Case.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\User\Assignment.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\User\Profile.baml
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\younu\Desktop\New folder\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
+C:\Users\david\source\repos\FInalVersion3\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\david\source\repos\FInalVersion3\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\david\source\repos\FInalVersion3\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\david\source\repos\FInalVersion3\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\david\source\repos\FInalVersion3\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\david\source\repos\FInalVersion3\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\david\source\repos\FInalVersion3\GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\david\source\repos\FInalVersion3\GUI\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\david\source\repos\FInalVersion3\GUI\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\Case.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\SearchWindow.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\User\Assignment.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\User\Profile.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Mechanic.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\Add_Vehicle.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\AdminProfile.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\Alla_vehicle.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\AllMechanic.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Admin\Case.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Home\HomePage.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\Login\LoginPage.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\SearchWindow.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\User\Assignment.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\User\Profile.baml
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\david\source\repos\FInalVersion3\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache

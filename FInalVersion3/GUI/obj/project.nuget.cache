@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Afi2AjPoRdFCXYRyagduhsxelyX6A9v26LViUWNJr91DflOX+tcjlILl/L1engGyHimB+Qzfuedplag5F1omYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\FInalVersion3\\GUI\\GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

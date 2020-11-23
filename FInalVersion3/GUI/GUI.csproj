@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="load.gif" />
+    <None Remove="Login\Login-02.png" />
+    <None Remove="Login\pngegg.png" />
+    <None Remove="Login\shoutdown.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Logic\Logic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="load.gif" />
+    <Resource Include="Login\Login-02.png" />
+    <Resource Include="Login\pngegg.png" />
+    <Resource Include="Login\shoutdown.png" />
+  </ItemGroup>
+
+</Project>

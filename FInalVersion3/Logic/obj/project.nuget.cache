@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bm80IDA7NZM0qtKuJ2Wkw+pr88gxJTUCaG+g31PfeQk5GKh0l4gSfochQMN9ZZA5A0ileJLAuuFgAtcdTTfg5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\FInalVersion3\\Logic\\Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

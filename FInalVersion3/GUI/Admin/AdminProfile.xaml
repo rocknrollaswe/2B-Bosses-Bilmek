@@ -1,0 +1,299 @@
+﻿<Page x:Class="GUI.Pages.AdminProfile"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GUI.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdminProfile">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <Label Content="::. Välkommen Bosse .::" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" FontFamily="Lucida Bright" FontWeight="Bold"/>
+            <Label x:Name="Tb_date_today" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" FontFamily="Lucida Bright" FontWeight="Bold"/>
+
+        </StackPanel>
+
+        <Grid Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.5*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" VerticalAlignment="Center">
+                <GroupBox Header="Mekaniker info" Grid.Column="0" BorderThickness="2,2,2,2" Foreground="White" BorderBrush="Black" HorizontalAlignment="Left" FontFamily="Agency FB" FontSize="20" Width="450" Margin="20,0,15,0" Height="270">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Row="0" Grid.Column="0">
+                            <Label Content="Totalt antal mekaniker :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                        </StackPanel>
+                        <StackPanel Grid.Row="0" Grid.Column="1">
+                            <Label x:Name="TB_Total_mekanik" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                        </StackPanel>
+
+
+                        <StackPanel Grid.Row="1" Grid.Column="0">
+                            <Label Content="Totalt antal mekaniker med konto :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                        </StackPanel>
+                        <StackPanel Grid.Row="1" Grid.Column="1">
+                            <Label x:Name="TB_Total_mekanik_konto" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                        </StackPanel>
+
+
+
+                        <StackPanel Grid.Row="2" Grid.Column="0">
+                            <Label Content="Antal mekaniker med bromskompetens :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                        </StackPanel>
+                        <StackPanel Grid.Row="2" Grid.Column="1">
+                            <Label x:Name="TB_Total_mekanik_skill_broms" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="3" Grid.Column="0">
+                            <Label Content="Antal mekaniker med motorkompetens :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                        </StackPanel>
+                        <StackPanel Grid.Row="3" Grid.Column="1">
+                            <Label x:Name="TB_Total_mekanik_motor" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="4" Grid.Column="0">
+                            <Label Content="Antal mekaniker med karosskompetens :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                        </StackPanel>
+                        <StackPanel Grid.Row="4" Grid.Column="1">
+                            <Label x:Name="TB_Total_mekanik_Kaross" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                        </StackPanel>
+
+
+                        <StackPanel Grid.Row="5" Grid.Column="0">
+                            <Label Content="Antal mekaniker med vindrutekompetens :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                        </StackPanel>
+                        <StackPanel Grid.Row="5" Grid.Column="1">
+                            <Label x:Name="TB_Total_mekanik_Vindruta" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="6" Grid.Column="0">
+                            <Label Content="Antal mekaniker med däck-kompetens :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                        </StackPanel>
+                        <StackPanel Grid.Row="6" Grid.Column="1">
+                            <Label x:Name="TB_Total_mekanik_wheel" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                        </StackPanel>
+                    </Grid>
+                </GroupBox>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <GroupBox Header="Fordon info" Grid.Column="0" BorderThickness="2,2,2,2" Foreground="White" BorderBrush="Black" HorizontalAlignment="Center" FontFamily="Agency FB" FontSize="20" Width="380" Margin="15,0,20,0" Height="270">
+
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="8*"/>
+                            <RowDefinition Height="2*"/>
+                        </Grid.RowDefinitions>
+
+
+
+
+
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="2*"/>
+                                <ColumnDefinition Width="0.5*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+
+                            </Grid.RowDefinitions>
+
+                            <StackPanel Grid.Row="0" Grid.Column="0">
+                                <Label Content="Totalt antal fordon :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                            </StackPanel>
+                            <StackPanel Grid.Row="0" Grid.Column="1">
+                                <Label x:Name="TB_Total_fordoninfo" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                            </StackPanel>
+
+
+
+                            <StackPanel Grid.Row="1" Grid.Column="0">
+                                <Label Content="Totalt antal motorcyklar :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                            </StackPanel>
+                            <StackPanel Grid.Row="1" Grid.Column="1">
+                                <Label x:Name="TB_Total_MC" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                            </StackPanel>
+
+
+
+
+                            <StackPanel Grid.Row="2" Grid.Column="0">
+                                <Label Content="Totalt antal bilar :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                            </StackPanel>
+                            <StackPanel Grid.Row="2" Grid.Column="1">
+                                <Label x:Name="TB_Total_BIl" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                            </StackPanel>
+
+
+
+
+                            <StackPanel Grid.Row="3" Grid.Column="0">
+                                <Label Content="Totalt antal lastbilar :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                            </StackPanel>
+                            <StackPanel Grid.Row="3" Grid.Column="1">
+                                <Label x:Name="TB_Total_lastbil" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                            </StackPanel>
+
+
+
+                            <StackPanel Grid.Row="4" Grid.Column="0">
+                                <Label Content="Totalt antal bussar :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                            </StackPanel>
+                            <StackPanel Grid.Row="4" Grid.Column="1">
+                                <Label x:Name="TB_Total_Buss" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                            </StackPanel>
+
+
+                            <StackPanel Grid.Row="5" Grid.Column="0">
+                                <Label Content="Pågående ärenden :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                            </StackPanel>
+                            <StackPanel Grid.Row="5" Grid.Column="1">
+                                <Label x:Name="TB_Total_case" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                            </StackPanel>
+
+
+                            <StackPanel Grid.Row="6" Grid.Column="0">
+                                <Label Content="Fordon som behöver kopplas till ärende :" Foreground="White" FontWeight="Bold" FontSize="14"></Label>
+
+                            </StackPanel>
+                            <StackPanel Grid.Row="6" Grid.Column="1">
+                                <Label x:Name="TB_Total_Nocase" Content="0" Foreground="White" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,0,20,0" FontSize="16"></Label>
+
+                            </StackPanel>
+                        </Grid>
+
+
+                        <Grid Grid.Row="1">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center">
+                                <Label Content="Bromsar" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                            <StackPanel Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <Label x:Name="Tb_Fordon_broms" Content="0" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+
+                            <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center">
+                                <Label Content="Motor" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                            <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <Label x:Name="Tb_Fordon_Motor" Content="0" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+
+
+
+
+                            <StackPanel Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center">
+                                <Label Content="Kaross" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                            <StackPanel Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <Label x:Name="Tb_Fordon_Kaross" Content="0" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+
+
+
+
+                            <StackPanel Grid.Row="0" Grid.Column="3" HorizontalAlignment="Center">
+                                <Label Content="Vindruta" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                            <StackPanel Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <Label x:Name="Tb_Fordon_Vindruta" Content="0" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+
+
+
+
+
+                            <StackPanel Grid.Row="0" Grid.Column="4" HorizontalAlignment="Center">
+                                <Label Content="Däck" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center"/>
+                            </StackPanel>
+                            <StackPanel Grid.Row="1" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <Label x:Name="Tb_Fordon_wheel" Content="0" Foreground="White" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </StackPanel>
+
+
+
+                        </Grid>
+
+
+
+
+
+
+
+
+
+
+
+                    </Grid>
+
+
+                </GroupBox>
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+</Page>
